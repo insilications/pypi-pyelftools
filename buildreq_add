@@ -1,6 +1,8 @@
 # This file contains additional build requirements that did not get
 # picked up automatically. One name per line, no whitespace.
 buildreq-distutils3
+elfutils-dev
+elfutils-staticdev
 pypi(pluggy)
 pypi(virtualenv)
 py-python
